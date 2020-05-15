@@ -1,4 +1,4 @@
-# Introduction-to-CS50-
+# Introduction-to-CS50
 
 # Table Of Contents
 

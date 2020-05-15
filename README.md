@@ -11,7 +11,7 @@
 
 ## [Problem Set 2](https://github.com/sarthakg2002/Introduction-to-CS50-/tree/master/C/pset2): Crypto 
 
- caesar
+* caesar
 * readability
 
 ## [Problem Set3](https://github.com/sarthakg2002/Introduction-to-CS50-/tree/master/C/pset3): Elections 

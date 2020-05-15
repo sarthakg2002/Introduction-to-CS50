@@ -1,0 +1,29 @@
+h1
+{
+    text-align: center;
+    color: red;
+    line-height: 200%;
+}
+h3
+{
+    color:red;
+    line-height: 300%;
+}
+.ribbon
+{
+    position: relative;
+    top: -200px;
+    right: -650px;
+}
+.r2
+{
+    position: relative;
+    top: -80px;
+    right: -650px;
+}
+td
+{
+    border: 1px solid black;
+    padding: 5px;
+}
+

@@ -2,35 +2,35 @@
 
 # Table Of Contents
 
-Problem Set 1: C - Assignments 1
+## [Problem Set 1](https://github.com/sarthakg2002/Introduction-to-CS50-/tree/master/C/pset1): C 
 
 * hello
 * mario
   * more
 * cash
 
-Problem Set 2: Crypto - Assignments 2
+## [Problem Set 2](https://github.com/sarthakg2002/Introduction-to-CS50-/tree/master/C/pset2): Crypto 
 
  caesar
 * readability
 
-Problem Set3: Elections - Assignments 3
+## [Problem Set3](https://github.com/sarthakg2002/Introduction-to-CS50-/tree/master/C/pset3): Elections 
 
 * plurality
 * runoff
 
-Problem Set 4: Forensics - Assignments 4
+## [Problem Set 4](https://github.com/sarthakg2002/Introduction-to-CS50-/tree/master/C/pset4): Forensics 
 
 * filter
  * less
 * recover
 
-Problem Set 5: Speller - Speller assignment
+## [Problem Set 5](https://github.com/sarthakg2002/Introduction-to-CS50-/tree/master/C/pset5): Speller 
 
 * dictionary.c
 * dictionary.h
 
-Problem Set 6: Python - Assignments 6
+## [Problem Set 6](https://github.com/sarthakg2002/Introduction-to-CS50-/tree/master/Python/pset6): Python 
 
 * hello
 * mario
@@ -39,12 +39,12 @@ Problem Set 6: Python - Assignments 6
 * readability
 * dna
 
-Problem Set 7: SQL - Assignments 7
+## [Problem Set 7](https://github.com/sarthakg2002/Introduction-to-CS50-/tree/master/Python/pset7): SQL 
 
 * movies
 * houses
 
-Problem Set 8: Web - Web Tracks
+## [Problem Set 8](https://github.com/sarthakg2002/Introduction-to-CS50-/tree/master/pset8): Web 
 
 * web
   * homepage

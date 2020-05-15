@@ -44,7 +44,7 @@
 * movies
 * houses
 
-## [Problem Set 8](https://github.com/sarthakg2002/Introduction-to-CS50-/tree/master/pset8): Web 
+## [Problem Set 8](https://github.com/sarthakg2002/Introduction-to-CS50-/tree/master/pset8): Tracks 
 
 * web
   * homepage
